@@ -27,7 +27,7 @@ As a testament to my analytical and coding skills, check out my [Solutions-To-Pr
 
 - 🎥 Coming Soon: Watch some of these solutions come to life in video format, demonstrating my approach to complex problem-solving.
 
-## Other GitHub Projects/Repositories
+## Grouped GitHub Projects/Repositories
 
 ### 🎓 Teaching and Education
 In this category, you'll find projects related to teaching and educational resources. These include comprehensive courses, learning materials, and lecture content designed to facilitate learning in various domains of technology and programming.
