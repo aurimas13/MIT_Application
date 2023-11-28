@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/MIT_Application/blob/main/Public/logo.jpeg"/>
 </p>
 <h1 align="center"> Welcome to my MIT Journey 🚀 </h1>
-<p align="center"> Hello and welcome to my MIT application story. </p>
+<p align="center"> Hello and welcome to my MIT Application story. </p>
 <p align="center"> Featuring dazzling <b> Personal Story </b> to challenges on <b> LeetCode </b> & a Proposal. Be a part of the journey. </p>
 <br>
 <p align=center>
