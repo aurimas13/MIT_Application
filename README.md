@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/MIT_Application/blob/main/public/logo.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/MIT_Application/blob/main/Public/logo.jpeg"/>
 </p>
 <h1 align="center"> Welcome to My MIT Application Journey 🚀 </h1>
 <p align="center"> Hello and welcome to MIT story. </p>
